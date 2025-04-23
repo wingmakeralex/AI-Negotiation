@@ -1,0 +1,4 @@
+[2025-04-23 02:21:23] Prolific ID: sasa | user: s
+[2025-04-23 02:21:23] Prolific ID: sasa | assistant: Hello! How can I assist you today?
+[2025-04-23 02:26:04] Prolific ID: ssss | user: 你好！
+[2025-04-23 02:26:04] Prolific ID: ssss | assistant: 你好！有什么可以帮到您的吗？
